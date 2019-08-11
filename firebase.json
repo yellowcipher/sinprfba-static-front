@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "sinprfba",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
